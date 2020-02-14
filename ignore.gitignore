@@ -1,1 +1,5 @@
 ignored
+git remote add origin https://github.com/SitaPiette/github-upload.git
+git add .
+git commit -m "initializing repository"
+git push -u origin m
